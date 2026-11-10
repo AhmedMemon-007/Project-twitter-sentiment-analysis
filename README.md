@@ -4,8 +4,6 @@ A machine learning web app that sorts a tweet into one of four classes: **Positi
 
 **Live demo:** _add your Streamlit Cloud link here_
 
-![App screenshot](screenshot.png)
-
 ---
 
 ## Table of Contents
@@ -129,7 +127,6 @@ twitter-sentiment-analysis/
 ├── sentiment.pkl                            # Trained pipeline: TF-IDF + Linear SVC
 ├── Project_Twitter_Sentiment_Analysis.ipynb # Training and evaluation notebook
 ├── requirements.txt                         # Python dependencies
-├── screenshot.png                           # App screenshot
 └── README.md
 ```
 
