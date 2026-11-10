@@ -2,7 +2,7 @@
 
 A machine learning web app that sorts a tweet into one of four classes: **Positive**, **Negative**, **Neutral** or **Irrelevant**. The model uses TF-IDF features with a Linear Support Vector Classifier. The app is built with Streamlit.
 
-**Live demo:** _add your Streamlit Cloud link here_
+**Live demo:** [ahmed-twitter-sentiment-analysis.streamlit.app](https://ahmed-twitter-sentiment-analysis.streamlit.app/)
 
 ---
 
@@ -135,7 +135,7 @@ Requires Python 3.12 or newer.
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/twitter-sentiment-analysis.git
+git clone https://github.com/AhmedMemon-007/Project-twitter-sentiment-analysis
 cd twitter-sentiment-analysis
 
 # 2. Create and activate a virtual environment
